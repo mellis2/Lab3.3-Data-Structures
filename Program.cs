@@ -12,18 +12,48 @@ namespace Lab3._3_Data_Structures
             Console.Write("Hello, please enter a few words: ");
             string text = Console.ReadLine();
 
-            Console.WriteLine(text);
+            Console.WriteLine(ReverseString(text));
 
-           //Created a stack of Char
-            Stack<char> stack = new Stack<char>();
+           // Console.WriteLine(text);
+
+           ////Created a stack of Char
+           // Stack<char> stack = new Stack<char>();
 
             
+           // //Used foreach loop to push each character in text string to stack.
+           // foreach (char c in text)
+           // {
+           //     stack.Push(c);
+           // }
+            
+           // //used string.Empty to clear value in text.
+           // text = string.Empty;
+
+           // //Used a while loop to pop each character in the stack back to text string.
+           // while (stack.Count > 0)
+           // {
+           //     text += stack.Pop();
+           // }
+
+           // Console.WriteLine(text);
+        }
+
+        public static string ReverseString(string text) 
+        {
+            
+
+           
+
+            //Created a stack of Char
+            Stack<char> stack = new Stack<char>();
+
+
             //Used foreach loop to push each character in text string to stack.
             foreach (char c in text)
             {
                 stack.Push(c);
             }
-            
+
             //used string.Empty to clear value in text.
             text = string.Empty;
 
@@ -33,8 +63,12 @@ namespace Lab3._3_Data_Structures
                 text += stack.Pop();
             }
 
-            Console.WriteLine(text);
+            return text;
+
+
         }
+        
+      
 
     }
 

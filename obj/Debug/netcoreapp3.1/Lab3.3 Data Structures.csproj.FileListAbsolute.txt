@@ -9,3 +9,14 @@ C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.3 Data Structures\obj\Debu
 C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.AssemblyInfo.cs
 C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.dll
 C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\bin\Debug\netcoreapp3.1\Lab3.3 Data Structures.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\bin\Debug\netcoreapp3.1\Lab3.3 Data Structures.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\bin\Debug\netcoreapp3.1\Lab3.3 Data Structures.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\bin\Debug\netcoreapp3.1\Lab3.3 Data Structures.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\bin\Debug\netcoreapp3.1\Lab3.3 Data Structures.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\bin\Debug\netcoreapp3.1\Lab3.3 Data Structures.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.3 Data Structures\obj\Debug\netcoreapp3.1\Lab3.3 Data Structures.pdb

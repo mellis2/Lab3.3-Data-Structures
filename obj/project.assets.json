@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mellis2\\source\\repos\\DevBuild GC\\Week 3\\Lab3.3 Data Structures\\Lab3.3 Data Structures.csproj",
+      "projectUniqueName": "C:\\Users\\mellis2\\source\\repos\\DevBuild GC\\Week3\\Lab3.3 Data Structures\\Lab3.3 Data Structures.csproj",
       "projectName": "Lab3.3 Data Structures",
-      "projectPath": "C:\\Users\\mellis2\\source\\repos\\DevBuild GC\\Week 3\\Lab3.3 Data Structures\\Lab3.3 Data Structures.csproj",
+      "projectPath": "C:\\Users\\mellis2\\source\\repos\\DevBuild GC\\Week3\\Lab3.3 Data Structures\\Lab3.3 Data Structures.csproj",
       "packagesPath": "C:\\Users\\mellis2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mellis2\\source\\repos\\DevBuild GC\\Week 3\\Lab3.3 Data Structures\\obj\\",
+      "outputPath": "C:\\Users\\mellis2\\source\\repos\\DevBuild GC\\Week3\\Lab3.3 Data Structures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
